@@ -3,7 +3,7 @@ Fullstack developer in React/Node, working on a OpenSuse Linux workstation, and 
 
 
 ## 🛠 Skills
-Javascript, HTML, CSS, React.JS, React Native, Tailwind, Typescrpit
+Javascript, HTML, CSS, React.JS, React Native, Tailwind, Typescript
 
 Node.JS, Mongodb, Express.JS
 
