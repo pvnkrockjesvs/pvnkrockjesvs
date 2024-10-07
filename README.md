@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Fullstack web developer
 -----------------------
 * 🌍  I'm a French based in Maribor, SL
-* ✉️  You can contact me at [contact@ronnel-dev.com](mailto:contact@ronnel-dev.com)
+* ✉️  You can contact me [here](mailto:ronnel.guillaume.pro@proton.me)
 *   ⚡  Musician, glitch artist, ex-music reviewer, pop culture aficionado
 ### Skills
 
